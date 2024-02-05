@@ -30,14 +30,14 @@
         "name": "PEM的资源站|玩偶【📺】",
         "type": 3,
         "api": "./wogg_open.js",
-        "ext": "2a1d4cfddac74438ae0863659e86bbc9"
+        "ext": "1064aae63b78471ea49df9581eff28ab"
    },  
    {
         "key": "wobg",
         "name": "PEM的资源站|玩偶2【📺】",
         "type": 3,
         "api": "./wobg.js",
-        "ext": "2a1d4cfddac74438ae0863659e86bbc9"
+        "ext": "1064aae63b78471ea49df9581eff28ab"
    },  
    {
         "key": "hmsp_open",
